@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @YamunaPechetti
+- 👀 I’m interested in programming, coding and to learn new things every now and then. I'm passionate about Cyber Security.
+- 🌱 I’m currently pursuing my career as B.Tech-Computer Science and Engineering with specialization in Cyber Security.
+- 📫 You'll can reach me from my LinkedIn: www.linkedin.com/in/yamuna-pechetti-44413825a 
+- 😄 Pronouns: My pronouns are she/her, and I appreciate when others use them correctly.
+- ⚡ Fun fact: Do you know my favorite color is Black and Blue? I also love nature photography, travelling and reading a lot.
