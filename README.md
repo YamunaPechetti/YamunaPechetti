@@ -1,9 +1,3 @@
- (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
-diff --git a/README.md b/README.md
-index 2e29fa321393eab63f5c382729c9f54d9283f995..3523ae48b5e639cacbe2a4173ccf1d134697a29e 100644
---- a/README.md
-+++ b/README.md
-@@ -1,6 +1,62 @@
 -- 👋 Hi, I’m @YamunaPechetti
 -- 👀 I’m interested in programming, coding and to learn new things every now and then. I'm passionate about Cyber Security.
 -- 🌱 I’m currently pursuing my career as B.Tech-Computer Science and Engineering with specialization in Cyber Security.
